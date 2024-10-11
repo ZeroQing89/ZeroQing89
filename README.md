@@ -39,7 +39,7 @@
 ![](	https://aleen42.github.io/badges/src/flash.svg)
 
 
-## 📚 我在干什么 / What I'm doing
+## 我在干什么 / What I'm doing
 >活到老，学到老
 - [ ]  学习影视后期特效制作
 - [ ]  Web/misc方向刷题
