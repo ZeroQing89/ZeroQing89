@@ -42,7 +42,11 @@
 
 ## 我在干什么 / What I'm doing
 >活到老，学到老
-<div align="right"> <img width="400" src="https://count.kjchmc.cn/get/@:ZeroQing89?theme=gelbooru" /> </div>
+<table frame='void' align='right' >
+<tr><td><img width="470" src="https://count.kjchmc.cn/get/@:ZeroQing89?theme=gelbooru" /></td></tr>
+</table>
+
+
 - [ ]  影视后期特效制作及3D建模
 - [ ]  Web/misc方向刷题
 - [ ]  研究AI大模型相关的项目，并尝试去本地部署模型
