@@ -2,8 +2,12 @@
 > 你好啊，我叫ZeroQing，初次见面，还请多关照哦
 
 <a href="#">
-   <img   align="right" src="https://github-readme-stats.vercel.app/api?username=ZeroQing89&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/>
+
 </a>
+<table align='right'>
+<tr><td><img src="https://github-readme-stats.vercel.app/api?username=ZeroQing89&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/></td></tr>
+</table>
 
 🍓 **About Me**
 
