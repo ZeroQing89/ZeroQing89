@@ -1,5 +1,5 @@
 ## 清雨浅夏 / ZeroQing
-> 你好啊，我叫ZeroQing，初次见面，还请多关照哦
+> 你好啊，我叫ZeroQing，初次见面，还请多多关照哦
 
 <table frame='void' align='right'  >
 <tr ><td><img src="https://github-readme-stats.vercel.app/api?username=ZeroQing89&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/></td></tr>
