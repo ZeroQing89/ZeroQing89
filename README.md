@@ -29,6 +29,11 @@
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://aleen42.github.io/badges/src/photoshop.svg)
+![](https://aleen42.github.io/badges/src/illustrator.svg)
+![](https://aleen42.github.io/badges/src/after_effects.svg)
+![](https://aleen42.github.io/badges/src/premiere.svg)
+![](	https://aleen42.github.io/badges/src/flash.svg)
 
 🎄 **Others**
 
@@ -36,3 +41,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AZCodingAccount&theme=dark&hide_border=true" />
 </picture>
+
+## 📚 我在干什么 / What I'm doing
+>
+- [ ]  学习影视后期特效制作
+- [ ]  Web/misc方向刷题
+- [ ]  研究AI大模型相关的项目，并尝试去本地部署模型
+- [ ]  独立游戏开发
+- [ ]  小说更新
+- [ ]  原画学习
+- [ ]  ......
