@@ -1,4 +1,5 @@
-## 自我介绍 / about me
+<img align='center' src="assets/logo.png" width="400">
+## 清雨浅夏 / ZeroQing
 > 你好啊，我叫ZeroQing，初次见面，还请多关照哦
 
 <a href="#">
