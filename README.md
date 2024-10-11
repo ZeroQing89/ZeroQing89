@@ -36,10 +36,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AZCodingAccount&theme=light&hide_border=true" />
   <img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=AZCodingAccount&theme=default&hide_border=true" />
 </picture>
-
-
-## 项目展示 / Project Display
-
-<img align='left' src="assets/Project.png" width="400">
-
-> 。
