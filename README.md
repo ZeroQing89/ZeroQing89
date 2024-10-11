@@ -43,7 +43,7 @@
 ## 我在干什么 / What I'm doing
 >活到老，学到老
 <table frame='void' align='right' >
-<tr><td><img width="470" src="https://count.kjchmc.cn/get/@:ZeroQing89?theme=gelbooru" /></td></tr>
+<tr><td><img width="470" src="https://count.kjchmc.cn/get/@:ZeroQing89?theme=asoul" /></td></tr>
 </table>
 
 
