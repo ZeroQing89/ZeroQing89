@@ -37,10 +37,10 @@
 
 🎄 **Others**
 
-<img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AZCodingAccount&theme=dark&hide_border=true" />
 </picture>
+
 
 ## 📚 我在干什么 / What I'm doing
 >
