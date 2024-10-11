@@ -10,8 +10,8 @@
 - 📫  E-mail: wyi93999@gmail.com
 - 👯  About me: 一个摸鱼的Ctfer, web/misc 方向
 - 🌐  Languages: English, 中文
-- 📱   Bilibili：@[ZeroQing](https://space.bilibili.com/352654372)
-       YouTube：@[ZeroQing](https://www.youtube.com/@ZeroQing89)
+- 📱   Bilibili：[ZeroQing](https://space.bilibili.com/352654372)
+       YouTube：[ZeroQing](https://www.youtube.com/@ZeroQing89)
 
 ❄️ **Skills**
 
