@@ -1,13 +1,13 @@
 <a href="#">
-   <img   align="center" src="https://github-readme-stats.vercel.app/api?username=ZeroQing89&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/>
+   <img   align="right" src="https://github-readme-stats.vercel.app/api?username=ZeroQing89&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/>
 </a>
 
 🍓 **About Me**
 
--🔭 主要使用: Python，Golang
--📫 E-mail: wyi93999@gmail.com
--👯 About me: 一个摸鱼的Ctfer, web/misc 方向
--🌐 Languages: English, 中文
+- 🔭  主要使用: Python，Golang
+- 📫  E-mail: wyi93999@gmail.com
+- 👯  About me: 一个摸鱼的Ctfer, web/misc 方向
+- 🌐  Languages: English, 中文
 
 ❄️ **Skills**
 
