@@ -37,12 +37,13 @@
 
 🎄 **others**
 
-<p href="#">
+<p align="left">
 <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
 </p>
 
 ## 📚 我在干什么 / What I'm doing
 >
+<p align="left">
 - [ ]  学习影视后期特效制作
 - [ ]  Web/misc方向刷题
 - [ ]  研究AI大模型相关的项目，并尝试去本地部署模型
@@ -50,3 +51,4 @@
 - [ ]  小说更新
 - [ ]  原画学习
 - [ ]  ......
+</p>
