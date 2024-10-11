@@ -28,4 +28,4 @@
 🎄 **Others**
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
-<img   align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeroQing89" width="400" />
+<img   align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeroQing89" width="700" />
