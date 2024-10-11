@@ -13,10 +13,9 @@
 - 🌐  Languages: English, 中文
 - 📱   Bilibili：[ZeroQing](https://space.bilibili.com/352654372)
        YouTube：[ZeroQing](https://www.youtube.com/@ZeroQing89)
+<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
 
 💻 **Development Skills**
-
-<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
