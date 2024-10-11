@@ -1,4 +1,5 @@
-<img align='center' src="assets/logo.jpg" width="700">
+![头像](assets/logo.jpg)
+
 ## 清雨浅夏 / ZeroQing
 > 你好啊，我叫ZeroQing，初次见面，还请多关照哦
 
