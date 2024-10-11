@@ -14,7 +14,7 @@
 - 📱   Bilibili：[ZeroQing](https://space.bilibili.com/352654372)
        YouTube：[ZeroQing](https://www.youtube.com/@ZeroQing89)
 
-❄️ **Skills**
+💻 **Development Skills**
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,6 +29,9 @@
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+
+🎨 **Designer Skills**
+
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
 ![](https://aleen42.github.io/badges/src/illustrator.svg)
 ![](https://aleen42.github.io/badges/src/after_effects.svg)
