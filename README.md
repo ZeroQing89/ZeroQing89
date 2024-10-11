@@ -36,11 +36,10 @@
 ![](	https://aleen42.github.io/badges/src/flash.svg)
 
 🎄 **others**
-<a href="#">
-<img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
-</a>
 
-> "I build,therefore I am."
+<p href="#">
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
+</p>
 
 ## 📚 我在干什么 / What I'm doing
 >
