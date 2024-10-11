@@ -1,4 +1,4 @@
-## 基本信息
+## 基本信息 / Basic Information
 > 你好啊，我叫ZeroQing，初次见面，还请多关照哦
 <a href="#">
    <img   align="right" src="https://github-readme-stats.vercel.app/api?username=ZeroQing89&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/>
@@ -35,3 +35,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AZCodingAccount&theme=light&hide_border=true" />
   <img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=AZCodingAccount&theme=default&hide_border=true" />
 </picture>
+
+## 项目展示 / Project Display
+
+<img align='right' src="assets/logo-longwithfornt.png" width="400">
+
+> 。
