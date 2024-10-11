@@ -36,8 +36,9 @@
   <img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=AZCodingAccount&theme=default&hide_border=true" />
 </picture>
 
+
 ## 项目展示 / Project Display
 
-<img align='right' src="assets/logo-longwithfornt.png" width="400">
+<img align='left' src="assets/Project.png" width="400">
 
 > 。
