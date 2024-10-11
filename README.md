@@ -3,7 +3,6 @@
 
 <a href="#">
    <img   align="right" src="https://github-readme-stats.vercel.app/api?username=ZeroQing89&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/>
-   <img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
 </a>
 
 🍓 **About Me**
@@ -35,6 +34,10 @@
 ![](https://aleen42.github.io/badges/src/after_effects.svg)
 ![](https://aleen42.github.io/badges/src/premiere.svg)
 ![](	https://aleen42.github.io/badges/src/flash.svg)
+
+🎄 **others**
+
+<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
 
 
 
