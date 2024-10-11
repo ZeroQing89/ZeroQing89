@@ -24,3 +24,6 @@
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+
+🎄 **Others**
+<img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroQing89&locale=cn&line_height=33&theme=dark&langs_count=5"/>
