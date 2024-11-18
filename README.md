@@ -46,11 +46,11 @@
 <tr><td><img width="470" src="https://count.kjchmc.cn/get/@:ZeroQing89?theme=asoul" /></td></tr>
 </table>
 
-<table frame='void' align='left'  >
+
 - [ ]  Web/misc方向刷题
 - [ ]  影视后期特效制作及3D建模学习
 - [ ]  独立游戏开发
 - [ ]  小说更新
 - [ ]  ......
-</table>
+
 
