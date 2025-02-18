@@ -10,7 +10,7 @@
 
 - 🔭  主要使用: Python，C
 - 📫  E-mail: wyi93999@gmail.com
-- 👯  About me: 一个摸鱼的Ctfer, web/misc 方向。 偶尔写点小说，开发游戏
+- 👯  About me: 一个摸鱼的Ctfer, web/misc 方向。 偶尔写点小说
 - 🌐  Languages: English, 中文
 - 📱   Bilibili：[ZeroQing](https://space.bilibili.com/352654372)
        YouTube：[ZeroQing](https://www.youtube.com/@ZeroQing89)
@@ -47,8 +47,8 @@
 </table>
 
 
-- [ ]  Web/misc方向刷题
-- [ ]  影视后期特效制作及3D建模学习
+- [ ]  刷题
+- [ ]  学习建模
 - [ ]  小说更新
 - [ ]  ......
 
